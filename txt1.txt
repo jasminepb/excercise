@@ -5,3 +5,5 @@ For detailed info on what's new, read the release notes.
 FAQ: System prerequisites and installation - This version doesn't run on Windows Vista and below, use 2.4.0 instead.
 
 Donate
+
+hi
